@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FutharkRunes.py", "FutharkRunes.py\FutharkRunes.py.pyproj", "{CF8AA522-48BF-4E65-93BE-0E77A2FB31DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8AA522-48BF-4E65-93BE-0E77A2FB31DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8AA522-48BF-4E65-93BE-0E77A2FB31DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5220CB0-3844-4BDE-AEF0-B5A2EE68C42E}
+	EndGlobalSection
+EndGlobal
